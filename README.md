@@ -54,6 +54,7 @@ Key Insights
 Age distribution was approximately symmetric.
 Monthly Spend showed positive skewness due to high-spending customers.
 Days Since Last Interaction exhibited high variability among customers.
+
 3️⃣ Exploratory Data Analysis (EDA)
 
 
@@ -64,6 +65,16 @@ Box Plots
 Count Plots
 Scatter Plots
 Correlation Analysis
+<img width="794" height="732" alt="Screenshot 2026-06-19 224535" src="https://github.com/user-attachments/assets/4d408ae8-7a70-4b3c-8588-255995b8a5ac" />
+<img width="749" height="730" alt="Screenshot 2026-06-19 224612" src="https://github.com/user-attachments/assets/49426562-34f9-47fc-8681-ecb83f886603" />
+<img width="769" height="734" alt="Screenshot 2026-06-19 224632" src="https://github.com/user-attachments/assets/3fde0dcc-8fb7-4cb1-ad0b-a76c1ba160d0" />
+<img width="744" height="735" alt="Screenshot 2026-06-19 224658" src="https://github.com/user-attachments/assets/8e71e848-73a1-48c7-8fed-10267ae84cab" />
+<img width="711" height="652" alt="Screenshot 2026-06-19 224754" src="https://github.com/user-attachments/assets/2e04ab15-9c36-4597-91aa-10f840d77782" />
+<img width="831" height="683" alt="Screenshot 2026-06-19 224820" src="https://github.com/user-attachments/assets/bd658646-d68e-49bf-afd2-2136f4501f3a" />
+<img width="713" height="655" alt="Screenshot 2026-06-19 224840" src="https://github.com/user-attachments/assets/ddf8b2d2-24da-462c-9f82-52292f95668e" />
+<img width="779" height="572" alt="Screenshot 2026-06-19 224858" src="https://github.com/user-attachments/assets/3d750100-7be5-4f75-8a83-3b0631c8dd29" />
+<img width="935" height="675" alt="Screenshot 2026-06-19 224916" src="https://github.com/user-attachments/assets/4b6e482a-1cc4-476a-8212-3eda15953eca" />
+<img width="814" height="629" alt="Screenshot 2026-06-19 224938" src="https://github.com/user-attachments/assets/d1429040-315d-4370-ac51-36322f5e5af6" />
 
 Objectives
 
