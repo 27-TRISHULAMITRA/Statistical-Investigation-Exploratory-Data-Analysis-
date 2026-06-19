@@ -76,6 +76,10 @@ Identify trends and patterns.
 
 Analyzed relationships between:
 
+Correlation matrix (numeric variables)
+<img width="939" height="754" alt="Hitmap" src="https://github.com/user-attachments/assets/5548552f-7425-4ac7-be24-2566fadc97e8" />
+
+
 Gender vs Monthly Spend
 
 Education Level vs Monthly Spend
