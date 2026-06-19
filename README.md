@@ -1,16 +1,24 @@
 📊 Statistical Investigation & Hypothesis Testing Using Python
+
+
 📌 Project Overview
 
 This project focuses on performing a comprehensive statistical investigation on customer data to uncover spending patterns, customer behavior, and relationships between demographic factors. The analysis combines Exploratory Data Analysis (EDA), descriptive statistics, data visualization, and statistical hypothesis testing to validate business assumptions using data-driven evidence.
 
+
+
 🎯 Project Objectives
+
 Understand customer demographics and spending behavior.
 Perform descriptive statistical analysis on key variables.
 Visualize data distributions and relationships.
 Formulate business questions as statistical hypotheses.
 Apply appropriate statistical tests to validate assumptions.
 Generate actionable insights from both EDA and hypothesis testing.
+
+
 🛠️ Tools & Technologies
+
 Python
 Pandas – Data Manipulation & Analysis
 NumPy – Numerical Computation
@@ -18,12 +26,15 @@ Matplotlib – Data Visualization
 Seaborn – Statistical Visualization
 SciPy Stats – Hypothesis Testing & Statistical Analysis
 Jupyter Notebook
+
 📂 Project Workflow
+
 1️⃣ Data Understanding & Inspection
 Loaded customer dataset.
 Examined data structure and data types.
 Identified categorical and numerical variables.
 Checked for missing values and inconsistencies.
+
 2️⃣ Descriptive Statistics
 
 Calculated:
@@ -45,6 +56,7 @@ Monthly Spend showed positive skewness due to high-spending customers.
 Days Since Last Interaction exhibited high variability among customers.
 3️⃣ Exploratory Data Analysis (EDA)
 
+
 Performed visual analysis using:
 
 Histograms
@@ -59,16 +71,23 @@ Detect outliers.
 Understand distributions.
 Explore relationships between variables.
 Identify trends and patterns.
+
 4️⃣ Bivariate Analysis
 
 Analyzed relationships between:
 
 Gender vs Monthly Spend
+
 Education Level vs Monthly Spend
+
 Marital Status vs Pets Owned
+
 Age vs Days Since Last Interaction
+
 State vs Monthly Spend
+
 🧪 Statistical Hypothesis Testing
+
 Test 1: Independent Samples t-Test
 
 Business Question: Do males and females spend differently?
@@ -145,20 +164,37 @@ Conclusion
 Customer spending patterns do not significantly differ across states.
 
 📈 Key Business Insights
+
 Customer spending behavior is largely consistent across gender, education level, and state.
+
 Marital status significantly influences pet ownership patterns.
+
 Age is not a reliable indicator of customer engagement.
+
 A small group of high-value customers contributes disproportionately to spending levels.
+
 Statistical testing helped validate findings observed during exploratory analysis.
+
+
 🚀 Skills Demonstrated
+
 Data Cleaning & Inspection
+
 Exploratory Data Analysis (EDA)
+
 Descriptive Statistics
+
 Data Visualization
+
 Hypothesis Testing
+
 Statistical Interpretation
+
 Business Problem Solving
+
 Python for Data Analytics
+
+
 📌 Outcome
 
 This project demonstrates how statistical methods can be used alongside exploratory data analysis to transform business questions into measurable insights and support evidence-based decision-making.
